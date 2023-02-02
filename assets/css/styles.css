@@ -86,11 +86,10 @@ body {
 .desafios {
   width: 100%;
   height: 100%;
-  position: relative;
+  position: absolute;
   background-image: url(../img/bg-cha1.png);
   background-repeat: no-repeat;
-  background-position: right;
-  background-size: 340%;
+  background-size: 100%;
   animation: movimiento2 25s infinite linear alternate;
 }
 
